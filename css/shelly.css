@@ -14,6 +14,10 @@ Purple: #581845*/
 	color: #DAF7A6;
 }
 
+.middle-col div{
+	font-size: 2em;
+}
+
 #mid-top{
 	background-color: #C70039;
 	height: 33%;
@@ -24,6 +28,7 @@ Purple: #581845*/
 #mid-mid{
 	background-color: #900C3F;
 	height: 33%;
+	padding: 1em;
 
 }
 
