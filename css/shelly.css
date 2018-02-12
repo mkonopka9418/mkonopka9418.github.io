@@ -1,0 +1,60 @@
+/*Tan: #DAF7A6
+Yellow: #FFC300
+Organge: #FF5733
+Red: #C70039
+Pink: #900C3F
+Purple: #581845*/
+
+.container-fluid{
+	background-color: #FFC300;
+}
+
+.middle-col{
+	text-align: center;
+	color: #DAF7A6;
+}
+
+#mid-top{
+	background-color: #C70039;
+	height: 33%;
+	font-size: 4em;
+	font-style: bold;
+}
+
+#mid-mid{
+	background-color: #900C3F;
+	height: 33%;
+
+}
+
+#mid-bottom{
+	background-color: #581845;
+	height: 33%;
+}
+
+h2{
+	padding-top: 0.5em;
+	font-size: 1em;
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+
+img{
+	width: 12em;
+	height: 12em;
+	margin: 1em auto 1em auto;
+	border: solid;
+	border-width: .8em;
+}
+
+#first-pic{
+	border-color: #C70039;
+}
+
+#second-pic{
+	border-color: #900C3F;
+}
+
+#third-pic{
+	border-color: #581845;
+	background-color: white;
+}
