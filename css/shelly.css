@@ -43,8 +43,13 @@ Purple: #581845*/
 }
 
 #mid-bottom button{
-	background-color: #FF5733;
-	color: white;
+	background-color: white;
+	font-size: 1.35em;
+	color: black;
+	border-color: black;
+	border-width: .25em;
+	border-radius: .4em;
+	font-weight: bold;
 	margin: 1em;
 }
 
