@@ -23,18 +23,29 @@ Purple: #581845*/
 	height: 33%;
 	font-size: 4em;
 	font-style: bold;
+	overflow: scroll;
 }
 
 #mid-mid{
 	background-color: #900C3F;
 	height: 33%;
 	padding: 1em;
+	overflow: scroll;
 
 }
 
 #mid-bottom{
 	background-color: #581845;
 	height: 33%;
+	font-size: 1em;
+	overflow: scroll;
+
+}
+
+#mid-bottom button{
+	background-color: #FF5733;
+	color: white;
+	margin: 1em;
 }
 
 h2{
