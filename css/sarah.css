@@ -8,7 +8,8 @@
   }
   
   #content{
-	  margin-bottom:800px;
+	  padding-bottom:400px;
+	  background-color:#d9dde2;
   }
   #header{
 	  background-color:#2196F3;
@@ -21,10 +22,13 @@
 	flex-direction:column;
 	justify-content: space-around;
 	flex-wrap: wrap;
+
   }
   
   .pic_bar{
-	  width: 175px
+	width: 175px;
+	margin: auto;    
+	display: block;
   }
   
 
