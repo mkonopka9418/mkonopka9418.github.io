@@ -26,6 +26,7 @@
 }
 
 img{
+	object-fit: cover;
 	height: 450px;
-	width: auto;
+	max-width: 450px;
 }
