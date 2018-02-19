@@ -1,0 +1,31 @@
+
+  ul.nav-pills {
+      padding-top: 20px;
+	  top: 20px;
+  }
+  .item {
+      padding-top: 70px;
+  }
+  
+  #content{
+	  margin-bottom:800px;
+  }
+  #header{
+	  background-color:#2196F3;
+	  color:#fff;
+	  height:100px;"
+  }
+  
+  #pictures{
+	display:flex;
+	flex-direction:column;
+	justify-content: space-around;
+	flex-wrap: wrap;
+  }
+  
+  .pic_bar{
+	  width: 175px
+  }
+  
+
+
