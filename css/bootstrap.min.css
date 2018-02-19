@@ -11,9 +11,21 @@
 	margin-top: 3em;
 }
 
+#site_info{
+	height: 450px;
+}
+
 #carouselExampleControls{
 	float: right;
-	width: 50%;
-	height: auto;
-	margin: auto;
+	margin: 0px auto auto auto;
+}
+
+#carousel-inner{
+	width: auto;
+	height: 450px;
+}
+
+img{
+	height: 450px;
+	width: auto;
 }
