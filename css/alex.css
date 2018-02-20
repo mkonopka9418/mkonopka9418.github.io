@@ -1,4 +1,15 @@
 #section1, #section2, #section3, #section4 {
-	padding-top:50px;
-	height:500px;
+	padding-top:70px;
 }
+
+body {
+	position: relative;
+}
+
+ul.nav-pills {
+  top: 70px;
+  position: fixed;
+}
+
+
+
