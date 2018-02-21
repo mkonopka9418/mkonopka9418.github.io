@@ -11,5 +11,5 @@ Bootstrap 4 features:
     1. Branded navbar
     2. Cards (Sam's page)
     3. Scrollspy (Sarah's Page)
-    4. 
-    5.
+    4. Grid(Shelly's Page) 
+    5. Collapsibles(Shelly's Page)
