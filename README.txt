@@ -13,3 +13,11 @@ Bootstrap 4 features:
     3. Scrollspy (Sarah's Page)
     4. Grid(Shelly's Page) 
     5. Collapsibles(Shelly's Page)
+
+Team Member Evaluation
+
+	Sam Schilling : 15 points
+	Shelly Konopka : 15 points
+	Sarah Person : 15 points
+	Alex Anderson : 15 points
+
